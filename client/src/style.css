@@ -1,0 +1,19 @@
+.container {
+  padding-top: 70px;
+  clear: left;
+}
+.page-top-cmds {
+  padding: 15px 0;
+}
+.has-error {
+  color: red;
+}
+.card {
+  border: none;
+  border-bottom: 1px solid #ccc;
+}
+a,
+a:hover {
+  color: #333;
+  text-decoration: none;
+}
